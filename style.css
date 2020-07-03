@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.blue-highlight{
+    color: blue;
+}
+.half-width{
+    width: 45%;
+    margin-left: 10px;
+    float: left;
+}
+img{
+    width: 100%;
+}
+p{
+    text-align: justify;
+}
+.banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
