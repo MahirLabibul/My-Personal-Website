@@ -44,3 +44,34 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
+#making-center{
+    text-align: center;
+}
+.photos{
+    float: left;
+}
+.photos img{
+    width: 30%;
+    padding-right: 15px;
+    padding-left: 20px;
+}
+#banner3{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.center-allignment{
+    text-align: center;
+}
+.setting{
+    padding-top: 20px;
+}
+#comment{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding-top: 20px;
+}
+.center-allignment p{
+    color: #A8A8A8;
+}
