@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 .blue-highlight{
     color: blue;
@@ -22,6 +23,7 @@ h1{
 #banner{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
+    background-position: left;
 }
 .button{
     text-decoration: none;
@@ -32,4 +34,13 @@ h1{
     font-weight: 700;
     background-image: linear-gradient(45deg, yellow, #FF8C00);
     border-radius: 5px;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+#banner2{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
