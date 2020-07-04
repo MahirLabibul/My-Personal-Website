@@ -75,15 +75,24 @@ section{
 .center-allignment p{
     color: #A8A8A8;
 }
-#button2{
-    text-decoration: none;
-    background-color: black;
-    padding-top: 20%;
-}
 #size{
-    font-size: large; 
+    font-size: large;
 }
-#button-pera{
-    margin-left: 40%;
+.button2{
+    text-decoration: none;
+    background-color: yellow;
+    color: white;
+    padding: 30px 40px;
+    background-image: linear-gradient(45deg, yellow, #FF8C00);
+    border-radius: 10px;
+
+}
+#comment{
+    margin-top: 15px;
+}
+footer{
     text-align: center;
+}
+#banner4{
+    background-image: url(images/footer-bg.png);
 }
